@@ -1,0 +1,2 @@
+# fuhs_MIPS32-
+CPU_OPENMIPS指令编写
